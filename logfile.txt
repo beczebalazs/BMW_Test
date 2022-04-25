@@ -1,0 +1,32 @@
+Apr 25, 2022 4:15:15 PM BMW_Test.Main main
+INFO: Trying to connect to: https://jsonplaceholder.typicode.com/users
+Apr 25, 2022 4:15:16 PM BMW_Test.Main main
+INFO: Url accessed successfully!
+Apr 25, 2022 4:17:13 PM BMW_Test.Main main
+INFO: Trying to connect to: https://jsonplaceholder.typicode.com/users
+Apr 25, 2022 4:17:13 PM BMW_Test.Main main
+INFO: Url accessed successfully!
+Apr 25, 2022 4:18:10 PM BMW_Test.Main main
+INFO: Trying to connect to: https://jsonplaceholder.typicode.com/users
+Apr 25, 2022 4:18:10 PM BMW_Test.Main main
+INFO: Url accessed successfully!
+Apr 25, 2022 4:20:45 PM BMW_Test.Main main
+INFO: Trying to connect to: https://jsonplaceholder.typicode.com/users
+Apr 25, 2022 4:20:45 PM BMW_Test.Main main
+INFO: Url accessed successfully!
+Apr 25, 2022 5:52:28 PM BMW_Test.Main main
+INFO: Trying to connect to: https://jsonplaceholder.typicode.com/users
+Apr 25, 2022 5:52:37 PM BMW_Test.Main main
+INFO: Url accessed successfully!
+Apr 25, 2022 6:05:28 PM BMW_Test.Main main
+INFO: Trying to connect to: https://jsonplaceholder.typicode.com/users
+Apr 25, 2022 6:05:31 PM BMW_Test.Main main
+INFO: Url accessed successfully!
+Apr 25, 2022 6:08:19 PM BMW_Test.Main main
+INFO: Trying to connect to: https://jsonplaceholder.typicode.com/users
+Apr 25, 2022 6:08:19 PM BMW_Test.Main main
+INFO: Url accessed successfully!
+Apr 25, 2022 6:08:50 PM BMW_Test.Main main
+INFO: Trying to connect to: https://jsonplaceholder.typicode.com/users
+Apr 25, 2022 6:09:05 PM BMW_Test.Main main
+INFO: Url accessed successfully!
